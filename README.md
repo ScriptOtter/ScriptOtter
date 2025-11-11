@@ -9,7 +9,7 @@
 #### Фронтенд
 - **Языки:** JavaScript, TypeScript
 - **Библиотеки/Фреймворки:** React, Next.js
-- **Стейт-менеджмеры:** Redux Toolkit 
+- **Стейт-менеджмеры:** Redux Toolkit, MobX
 - **Стилизация:** SCSS, Tailwind CSS
 - **Инструменты:** Vite, Git
 
