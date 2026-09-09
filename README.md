@@ -13,7 +13,7 @@
 - Библиотеки/фреймворки: React, Next.js
 - State-менеджеры: Redux Toolkit, MobX
 - Стилизация: SCSS, Tailwind CSS
-- Инструменты: Vite, Git
+- Инструменты: Webpack, Vite
 
 **Бэкенд**
 - Языки: JavaScript, TypeScript
@@ -26,7 +26,7 @@
 
 ### 🌟 Проекты
 
-#### 🎮 Steam Node
+#### 🎮 [Steam Node](https://t.me/steamnode)
 Инструмент для агрегированного управления пулом Steam-аккаунтов: разом выполняет операции, которые в обычном клиенте Steam требуют поочерёдного входа в каждый аккаунт.
 
 **Возможности:**
@@ -52,7 +52,7 @@
 
 ---
 
-#### 🎵 Discord Music Bot
+#### 🎵 [Discord Music Bot](https://github.com/ScriptOtter/discord-music)
 Discord-бот для стриминга музыки с YouTube прямо в голосовой канал.
 
 **Возможности:**
@@ -77,10 +77,8 @@ Discord-бот для стриминга музыки с YouTube прямо в �
 
 ---
 
-#### 📊 TG Analytics Bot
+#### 📊 [TG Analytics Bot](https://github.com/ScriptOtter/telegram_chat_analytics)
 Телеграм-бот, который собирает сообщения участников чата в PostgreSQL, показывает статистику активности каждого участника и оценивает сообщения через интеграцию с Gemini AI.
-
-🔗 [Репозиторий](https://github.com/ScriptOtter/telegram_chat_analytics)
 
 ---
 
