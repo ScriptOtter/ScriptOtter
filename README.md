@@ -37,8 +37,6 @@
 - фарм игровых часов;
 - сервисные операции: активация ваучеров, покупка Prime-статуса, разблокировка маркета.
 
-🔗 [Репозиторий](https://github.com/ScriptOtter/steam-node)
-
 ---
 
 #### 🔐 License Bot & License Server
